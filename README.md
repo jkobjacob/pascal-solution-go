@@ -10,4 +10,4 @@ A program to print pascal values
 ###### 2. The number to begin which is 7 and you're free to try other values
 
 #### Demo
-[Demo](demo.png)
+![Demo](demo.png)
